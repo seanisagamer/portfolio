@@ -1,0 +1,33 @@
+html {
+    background-color:lightblue;
+  }
+  h1 {
+    color:green;
+  }
+  h2 {
+    font-size: 50px;
+  }
+  ol {
+    font-size: 25px;
+  }
+  h3 {
+    font-size: 25px;
+  }
+  h4 {
+    font-size: 25px;
+  }
+  ul {
+    font-size: 25px;
+  }
+  h5 {
+    font-size: 75px;
+  }
+  h1 {
+    font-size: 100px;
+  }
+  ol {
+    margin-left: 25px;
+  }
+  ul {
+    margin-left: 25px;
+  }
